@@ -1,0 +1,6 @@
+com/user/registration/web/PersonRegistration.class
+com/user/registration/model/PersonForm.class
+com/user/registration/repository/PersonRepository.class
+com/user/registration/service/PersonServiceImpl.class
+com/user/registration/Application.class
+com/user/registration/service/PersonService.class
