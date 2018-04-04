@@ -14,7 +14,7 @@ The following rules are applied for validation and app behavior:
 
 ## Validation Rules
 	@Entity
-	@Table(name = "person")
+	@Table(name = "person", uniqueConstraints=@UniqueConstraint(columnNames= {"userName"}))
 	public class PersonForm {
 	
 	@Id
