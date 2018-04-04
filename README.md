@@ -113,3 +113,6 @@ public class PersonServiceImpl implements PersonService {
 	}
 
 }
+
+# References
+[1] How to use regular expressions to enforce password policies - https://arnhem.luminis.eu/how-to-use-regular-expressions-to-enforce-password-policies/
